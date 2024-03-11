@@ -45,7 +45,7 @@ const axesHelper = new THREE.AxesHelper(1);
 scene.add(axesHelper);
 
 // IFC API
-
+///sdfsdf
 const model = new Model();
 model.ifcAPI.SetWasmPath("https://unpkg.com/web-ifc@0.0.50/", true);
 model.init();
